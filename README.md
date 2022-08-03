@@ -1,2 +1,2 @@
 # closures-scope-js
-some exxercises
+some exercises
